@@ -1,4 +1,3 @@
-# 100HIVES-Imperial-AI-ML-Capstone
 # Machine Learning & AI Capstone Project
 
 **Author:** [Your Real Name]  
