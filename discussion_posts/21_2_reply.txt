@@ -1,0 +1,11 @@
+My GitHub repository for the BBO capstone project is:
+
+[PASTE YOUR REPOSITORY LINK HERE]
+
+Datasheet:
+[PASTE DATASHEET LINK HERE]
+
+Model Card:
+[PASTE MODEL CARD LINK HERE]
+
+I have added both documents to the repository and linked them in the main README so the project workflow, assumptions, and limitations are easier to review.
