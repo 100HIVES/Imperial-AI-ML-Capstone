@@ -1,5 +1,0 @@
-My final GitHub repository for the BBO capstone project is here:
-
-[PASTE YOUR REPOSITORY LINK HERE]
-
-The repository includes my code, README, datasheet, model card, and project documentation.
